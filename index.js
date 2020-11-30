@@ -1,5 +1,3 @@
-// Overview: This is how much you know me quiz. Here, I'll ask some basic ques about myself and you have to answer it. You score will tell how much you know me :D.
-
 var readlineSync = require("readline-sync");
 
 var score = 0;
